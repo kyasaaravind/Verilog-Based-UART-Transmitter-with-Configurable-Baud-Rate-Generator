@@ -151,6 +151,6 @@ Some features that can be added in the future are:
 
 ## Author
 
-*kura karthik*
+*Kyasa Aravind*
 Vardhaman College of Engineering
 B.Tech Electronics and Communication Engineering
